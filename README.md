@@ -8,6 +8,6 @@ Repositório para hospedar as minhas soluções dos desafios de projeto da trilh
 
 ## Soluções de desafios
 
-1. [Criando um Sistema Bancário com Python](https://github.com/flaviosmoraes/desafios-de-projeto-trilha-python-dio/tree/criando-um-sistema-bancario-com-python)
-2. [Otimizando o Sistema Bancário com Funções Python](https://github.com/flaviosmoraes/desafios-de-projeto-trilha-python-dio/tree/otimizando-o-sistema-bancario-com-funcoes-python)
+1. [Criando um Sistema Bancário com Python](https://github.com/flaviosmoraes/desafios-de-projeto-trilha-python-dio/tree/criando-um-sistema-bancario-com-python/sistema-bancario-python.py)
+2. [Otimizando o Sistema Bancário com Funções Python](https://github.com/flaviosmoraes/desafios-de-projeto-trilha-python-dio/tree/otimizando-o-sistema-bancario-com-funcoes-python/sistema-bancario-python.py)
 3. [Modelando o Sistema Bancário em POO com Python](https://github.com/flaviosmoraes/desafios-de-projeto-trilha-python-dio/blob/modelando-o-sistema-banc%C3%A1rio-em-poo-com-python/sistema-bancario-poo.py)
